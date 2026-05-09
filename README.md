@@ -1,6 +1,8 @@
-# ProtoTrack for RGB-T Tracking
+# Purify-then-Fuse: Prototype-Guided Feature Learning for Robust RGB-T Visual Tracking
 
 This repository contains the official implementation of the RGB-T object tracking framework, **ProtoTrack**.
+
+**Note:** This code is directly related to our manuscript currently submitted to *The Visual Computer*. If you find this code or our Purify-then-Fuse framework useful for your research, we strongly encourage you to cite our relevant manuscript.
 
 ## Environment Installation
 
