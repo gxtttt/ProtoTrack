@@ -77,6 +77,6 @@ python tracking/analysis_results.py --tracker_name prototrack --tracker_param vi
 
 Our project is developed upon 
 
-[[OSTrack\]]: https://github.com/botaoye/OSTrack
+[OSTrack\]: https://github.com/botaoye/OSTrack
 
 . Thanks for their brilliant contributions to the community!
