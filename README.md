@@ -2,7 +2,7 @@
 
 This repository contains the official implementation of the RGB-T object tracking framework, **ProtoTrack**, submitted to *[The Visual Computer](https://link.springer.com/journal/371)*.
 
-> **Note:** This code is directly related to our manuscript currently submitted to *The Visual Computer*. If you find this code or our Purify-then-Fuse framework useful for your research, we strongly encourage you to contact us and cite our relevant manuscript(see [Citation](#citation) below).
+> **Note:** This code is directly related to our manuscript currently submitted to *The Visual Computer*. If you find this code or our Purify-then-Fuse framework useful for your research, we strongly encourage you to contact us and cite our relevant manuscript (see [Citation](#citation) below).
 
 
 
