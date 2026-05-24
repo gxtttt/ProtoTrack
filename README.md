@@ -107,11 +107,11 @@ python tracking/analysis_results.py --tracker_name prototrack --tracker_param vi
 
 | Model      | Backbone | Pretraining | Precision | NormPrec | Success | Checkpoint                                                   | Raw Result                                                   |
 | ---------- | -------- | ----------- | --------- | -------- | ------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Ptototrack | ViT-Base | SOT         | 74.2      | 70.2     | 59.3    | [download](https://pan.baidu.com/s/1bodOHxBQjiSw46Dp3B9_zw 提取码: 26tc ) | [download](https://pan.baidu.com/s/1xcwWwX9v3XKRCD-uiysw6Q?pwd=m1hk) |
+| Ptototrack | ViT-Base | SOT         | 74.2      | 70.2     | 59.3    | [download](https://pan.baidu.com/s/1bodOHxBQjiSw46Dp3B9_zw?pwd=26tc) | [download](https://pan.baidu.com/s/1xcwWwX9v3XKRCD-uiysw6Q?pwd=m1hk) |
 
 
 
 ## Acknowledgments
 
-Our project is developed upon [OSTrack]: https://github.com/botaoye/OSTrack. Thanks for their brilliant contributions to the community!
+Our project is developed upon [OSTrack](https://github.com/botaoye/OSTrack). Thanks for their brilliant contributions to the community!
 
