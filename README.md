@@ -2,7 +2,7 @@
 
 This repository contains the official implementation of the RGB-T object tracking framework, **ProtoTrack**, submitted to *[The Visual Computer](https://link.springer.com/journal/371)*.
 
-> **Note:** This code is directly related to our manuscript currently submitted to *The Visual Computer*. If you find this code or our Purify-then-Fuse framework useful for your research, we strongly encourage you to contact us and cite our relevant manuscript .
+> **Note:** This code is directly related to our manuscript currently submitted to *The Visual Computer*. If you find this code or our Purify-then-Fuse framework useful for your research, we strongly encourage you to contact us and cite our relevant manuscript(see [Citation](#citation) below).
 
 
 
@@ -110,8 +110,20 @@ python tracking/analysis_results.py --tracker_name prototrack --tracker_param vi
 | Ptototrack | ViT-Base | SOT         | 74.2      | 70.2     | 59.3    | [download](https://pan.baidu.com/s/1bodOHxBQjiSw46Dp3B9_zw?pwd=26tc) | [download](https://pan.baidu.com/s/1xcwWwX9v3XKRCD-uiysw6Q?pwd=m1hk) |
 
 
+## Citation
+
+If you find this work useful, please cite our paper:
+
+```bibtex
+@article{gao2025prototrack,
+  title     = {Purify-then-Fuse: Prototype-Guided Feature Learning for Robust RGB-T Visual Tracking},
+  author    = {Gao, Xiaoting and Zhang, Boquan and Wang, Jingjie and Zeng, Bi and Zhang, Zhongxuan and Hu, Huiting},
+  journal   = {The Visual Computer},
+}
+```
+
+
 
 ## Acknowledgments
 
 Our project is developed upon [OSTrack](https://github.com/botaoye/OSTrack). Thanks for their brilliant contributions to the community!
-
