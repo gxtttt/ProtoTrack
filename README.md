@@ -1,4 +1,4 @@
-# Refine-then-Fuse: Prototype Reconstruction for Robust RGB-T Visual Tracking
+# Refine-then-Fuse: Prototype-Guided Feature Refinement for Robust RGB-T Visual Tracking
 
 This repository contains the official PyTorch implementation of **ProtoTrack**, the RGB-T visual tracking framework described in our manuscript submitted to *The Visual Computer*.
 
