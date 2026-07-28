@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use ProtoTrack, please cite the manuscript below."
+title: "ProtoTrack: Refine-then-Fuse RGB-T Visual Tracking Implementation"
+type: software
+authors:
+  - family-names: Gao
+    given-names: Xiaoting
+  - family-names: Zhang
+    given-names: Boquan
+  - family-names: Wang
+    given-names: Jingjie
+  - family-names: Zeng
+    given-names: Bi
+  - family-names: Zhang
+    given-names: Zhongxuan
+  - family-names: Hu
+    given-names: Huiting
+repository-code: "https://github.com/gxtttt/ProtoTrack"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Refine-then-Fuse: Prototype Reconstruction for Robust RGB-T Visual Tracking"
+  authors:
+    - family-names: Gao
+      given-names: Xiaoting
+    - family-names: Zhang
+      given-names: Boquan
+    - family-names: Wang
+      given-names: Jingjie
+    - family-names: Zeng
+      given-names: Bi
+    - family-names: Zhang
+      given-names: Zhongxuan
+    - family-names: Hu
+      given-names: Huiting
+  journal: "The Visual Computer"
+  year: 2026
