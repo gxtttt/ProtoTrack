@@ -19,7 +19,7 @@ repository-code: "https://github.com/gxtttt/ProtoTrack"
 license: MIT
 preferred-citation:
   type: article
-  title: "Refine-then-Fuse: Prototype Reconstruction for Robust RGB-T Visual Tracking"
+  title: "Refine-then-Fuse: Prototype-Guided Feature Refinement for Robust RGB-T Visual Tracking"
   authors:
     - family-names: Gao
       given-names: Xiaoting
