@@ -201,7 +201,7 @@ If this work is useful for your research, please cite the manuscript using the c
 
 ```bibtex
 @article{gao2026prototrack,
-  title   = {Refine-then-Fuse: Prototype Reconstruction for Robust RGB-T Visual Tracking},
+  title   = {Refine-then-Fuse: Prototype-Guided Feature Refinement for Robust RGB-T Visual Tracking},
   author  = {Gao, Xiaoting and Zhang, Boquan and Wang, Jingjie and Zeng, Bi and Zhang, Zhongxuan and Hu, Huiting},
   journal = {The Visual Computer},
   year    = {2026},
